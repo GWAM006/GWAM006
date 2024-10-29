@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=GWAM006&show_icons=true)](https://github.com/GWAM006)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GWAM006&layout=compact)](https://github.com/GWAM006)
+
+
 <!--
 **GWAM006/GWAM006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
