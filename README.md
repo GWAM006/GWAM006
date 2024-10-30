@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=GWAM006&show_icons=true)](https://github.com/GWAM006)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=iddoth&show_icons=true)](https://github.com/iddoth)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GWAM006&layout=compact)](https://github.com/GWAM006)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iddoth&layout=compact)](https://github.com/iddoth)
 
 
 <!--
