@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=iddoth&show_icons=true)](https://github.com/iddoth)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=iddonth&show_icons=true)](https://github.com/iddonth)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iddoth&layout=compact)](https://github.com/iddoth)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iddonth&layout=compact)](https://github.com/iddonth)
 
 
 <!--
